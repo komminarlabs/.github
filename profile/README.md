@@ -1,5 +1,3 @@
-![logo](https://github.com/komminarlab/.github/blob/main/assets/logo.png)
-
 ## Hi there 👋
 
 <!--
